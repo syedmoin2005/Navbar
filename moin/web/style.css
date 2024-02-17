@@ -1,0 +1,16 @@
+body{
+    border: none;
+}
+.ccc{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.va{
+    visibility: hidden;
+}
+.si{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    column-gap: 5px;
+}
+.ga{}
